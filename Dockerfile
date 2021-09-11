@@ -6,4 +6,4 @@ COPY . .
 
 RUN go build
 
-CMD ["./go.pkg.main/go.pkg.main"]
+CMD ["./go"]
